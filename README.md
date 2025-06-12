@@ -55,7 +55,7 @@ Screen shot:-
 ![Screenshot 2025-06-12 085119](https://github.com/user-attachments/assets/76a81058-f6a0-4c6d-b28c-a796e692f68e)
 
 
-🧠 Models Used
+## 🧠 Models Used
 Logistic Regression
 
 Random Forest
@@ -66,7 +66,7 @@ K-Nearest Neighbors
 
 (Optional) XGBoost / SVM / Neural Networks
 
-📈 Performance Metrics
+## 📈 Performance Metrics
 Accuracy
 
 Precision, Recall, F1 Score
